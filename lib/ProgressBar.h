@@ -4,10 +4,11 @@
 #include <stdlib.h>
 #include <string.h>
 #include <fstream>
+#include <sstream>
 
 using namespace std;
 
-const string email="mArIO.AIsAllA@Epn.EdU.Ec";
+const string email="mario.aisalla@epn.edu.ec";
 
 enum Colors { // Listado de colores (La letra "L" al inicio, indica que es un color mas claro que su antecesor).
     BLACK      = 0,
@@ -79,6 +80,11 @@ void ShowProgressBar_a(string email,int load)
             f<<"\b\b"<<"] "<<i<<"% "<<"\t"<<"Loading: "<<load<<" de 24  ";
             if(imp!=0)
             {
+                for(int i=0;i<load;i++)
+                    {
+                        if(email[i]=='a'||email[i]=='e'||email[i]=='i'||email[i]=='o'||email[i]=='u')
+                        email[i]=toupper(email[i]);
+	                }
                 cout<<email.substr(0,load)<<endl;
                 f<<email.substr(0,load);
                 f<<"\n";
@@ -100,3 +106,4 @@ void loading()
         ShowProgressBar_a(email,i);
     }
 }
+
