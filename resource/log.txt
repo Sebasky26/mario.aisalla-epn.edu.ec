@@ -1,0 +1,25 @@
+[-                         ] 0% 	Loading: 0 de 24  
+[-                         ] 4% 	Loading: 1 de 24  m
+[- =                         ] 8% 	Loading: 2 de 24  mA
+[- =  -                       ] 12% 	Loading: 3 de 24  mAr
+[- =  - =                       ] 16% 	Loading: 4 de 24  mArI
+[- =  - =  -                     ] 20% 	Loading: 5 de 24  mArIO
+[- =  - =  - =                     ] 24% 	Loading: 6 de 24  mArIO.
+[- =  - =  - =  -                   ] 28% 	Loading: 7 de 24  mArIO.A
+[- =  - =  - =  - =                   ] 32% 	Loading: 8 de 24  mArIO.AI
+[- =  - =  - =  - =  -                 ] 36% 	Loading: 9 de 24  mArIO.AIs
+[- =  - =  - =  - =  - =                 ] 40% 	Loading: 10 de 24  mArIO.AIsA
+[- =  - =  - =  - =  - =  -               ] 44% 	Loading: 11 de 24  mArIO.AIsAl
+[- =  - =  - =  - =  - =  - =               ] 48% 	Loading: 12 de 24  mArIO.AIsAll
+[- =  - =  - =  - =  - =  - =  -             ] 52% 	Loading: 13 de 24  mArIO.AIsAllA
+[- =  - =  - =  - =  - =  - =  - =             ] 56% 	Loading: 14 de 24  mArIO.AIsAllA@
+[- =  - =  - =  - =  - =  - =  - =  -           ] 60% 	Loading: 15 de 24  mArIO.AIsAllA@E
+[- =  - =  - =  - =  - =  - =  - =  - =           ] 64% 	Loading: 16 de 24  mArIO.AIsAllA@Ep
+[- =  - =  - =  - =  - =  - =  - =  - =  -         ] 68% 	Loading: 17 de 24  mArIO.AIsAllA@Epn
+[- =  - =  - =  - =  - =  - =  - =  - =  - =         ] 72% 	Loading: 18 de 24  mArIO.AIsAllA@Epn.
+[- =  - =  - =  - =  - =  - =  - =  - =  - =  -       ] 76% 	Loading: 19 de 24  mArIO.AIsAllA@Epn.E
+[- =  - =  - =  - =  - =  - =  - =  - =  - =  - =       ] 80% 	Loading: 20 de 24  mArIO.AIsAllA@Epn.Ed
+[- =  - =  - =  - =  - =  - =  - =  - =  - =  - =  -     ] 84% 	Loading: 21 de 24  mArIO.AIsAllA@Epn.EdU
+[- =  - =  - =  - =  - =  - =  - =  - =  - =  - =  - =     ] 88% 	Loading: 22 de 24  mArIO.AIsAllA@Epn.EdU.
+[- =  - =  - =  - =  - =  - =  - =  - =  - =  - =  - =  -   ] 92% 	Loading: 23 de 24  mArIO.AIsAllA@Epn.EdU.E
+[- =  - =  - =  - =  - =  - =  - =  - =  - =  - =  - =  - =   ] 96% 	Loading: 24 de 24  mArIO.AIsAllA@Epn.EdU.Ec
